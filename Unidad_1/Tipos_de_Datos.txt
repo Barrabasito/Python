@@ -1,0 +1,39 @@
+El lenguaje copilado y interpretado.
+
+CARACTERISTICAS DE PYTHON
+Python es interpretado
+NO esfuerzamente tipado
+valores mutables
+valores inmutables esto ocurre en las listas
+No termina con ;
+
+ESTRUCTURAS DE DATOS
+Tupla
+Set
+Diccionario
+
+TRES TIPOS DE DATOS
+x=1#Enteros
+y=2.2#Flotantes
+z=3j#Complejos
+
+type sirve para poder ver que tipo de dato es y asi investigar sobre ello.
+id es la direccion de memoria donde se esta guardando.
+
+CONVERSIONES
+Xflotante = float(x)
+ycoplejo=complex(y)
+zentero=int(z)
+
+BOOLEANOS 
+True
+False
+1 
+0
+
+Sirve tambien para hacer combrobaciones
+x = [
+if bool(x):
+   print('')
+
+
